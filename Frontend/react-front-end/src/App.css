@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #004d99;
+  padding: 10px 0;
+}
+
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar ul li {
+  margin: 0 20px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.navbar ul li a:hover {
+  color: #ffdb4d;
+}
+
+.content {
+  padding: 20px;
+  text-align: center;
+}
